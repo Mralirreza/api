@@ -1,5 +1,12 @@
 [
   {
-    "api": "وب سرویس کرونا"
+    "api": "وب سرویس کرونا",
+    "api2": "خروجی : continent,country,cases,deaths,",
+    "api3": "https://api.shelper.ir/corona.php"
+  },
+  {
+    "api": "وب سرویس مناسبت روز ها",
+    "api2": "خورجی : occasion",
+    "api3": "https://api.shelper.ir/monasebat.php"
   }
 ]
