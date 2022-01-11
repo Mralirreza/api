@@ -1,12 +1,57 @@
 [
   {
-    "api": "وب سرویس کرونا",
+    "api": "وبسرویس کرونا",
     "api2": "خروجی : continent,country,cases,deaths,",
     "api3": "https://api.shelper.ir/corona.php"
   },
   {
-    "api": "وب سرویس مناسبت روز ها",
-    "api2": "خورجی : occasion",
+    "api": "وبسرویس مناسبت روز ها",
+    "api2": "خروجی : occasion",
     "api3": "https://api.shelper.ir/monasebat.php"
+  },
+  {
+    "api": "وبسرویس فونت",
+    "api2": "خروجی : ندارد ",
+    "api3": "https://api.shelper.ir/font.php"
+  },
+  {
+    "api": "وبسرویس ارز و طلا",
+    "api2": "خروجی :\n \"Name\": \"نام ارز\"\n\"Price\": \"قیمت ارز\"",
+    "api3": "https://api.shelper.ir/arz.php"
+  },
+  {
+    "api": "وبسرویس ذکر روز ها",
+    "api2": "خروجی :\n",
+    "api3": "http://api.codebazan.ir/zekr/"
+  },
+  {
+    "api": "وبسرویس حدیث و سخن بزرگان",
+    "api2": "خروجی :\n",
+    "api3": "http://api.codebazan.ir/hadis/"
+  },
+  {
+    "api": "وبسرویس پسورد ساز",
+    "api2": "خروجی :\n",
+    "api3": "http://api.codebazan.ir/password/?length\u003d12"
+  },
+  {
+    "api": "وبسرویس پینگ سایت",
+    "api2": "خروجی :\n",
+    "api3": "http://api.codebazan.ir/ping/?url\u003dgoogle.com"
+  },
+  {
+    "api": "وبسرویس داستان",
+    "api2": "خروجی :\n",
+    "api3": "http://api.codebazan.ir/dastan/"
+  },
+  {
+    "api": "وبسرویس قیمت خودرو",
+    "api2": "خروجی :\n",
+    "api3": "http://api.codebazan.ir/car-price/"
+  },
+  {
+    "api": "وبسرویس جدول فوتبال",
+    "api2": "خروجی :\niran,english,Germany,Spain,Italy,France,Holland",
+    "api3": "iran,english,Germany,Spain,Italy,France,Holland"
   }
 ]
