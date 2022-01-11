@@ -52,6 +52,6 @@
   {
     "api": "وبسرویس جدول فوتبال",
     "api2": "خروجی :\niran,english,Germany,Spain,Italy,France,Holland",
-    "api3": "iran,english,Germany,Spain,Italy,France,Holland"
+    "api3": "https://api.codebazan.ir/varzesh?type=football&table=iran"
   }
 ]
